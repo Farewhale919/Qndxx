@@ -3,11 +3,11 @@ on:
   schedule:
     - cron: "0 10 * * 1"
 
-name: Anti the Facists
+name: Qndxx
 
 jobs:
   build_and_test:
-    name: Anti the Facists
+    name: Qndxx
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
